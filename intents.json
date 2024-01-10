@@ -2,12 +2,12 @@
     {
         "tag": "saludo",
         "patterns": ["hola", "qué tal", "cómo estás", "saludos"],
-        "responses": ["Hola!", "Buenos días!", "¿Cómo estás?"]
+        "responses": ["Hola!, ¿En que te puedo ayudar ?"]
     },
     {
         "tag": "nombre",
         "patterns": ["cómo es tu nombre", "cómo te llamas"],
-        "responses": ["Me llamo Juan Pablo", "Mi nombre es Juan Pablo"]
+        "responses": ["Me llamo Chatbotsito", "Mi nombre es Chatbotsito"]
     }
 ]
 
